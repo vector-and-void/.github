@@ -8,6 +8,7 @@
 
 | Repository | Domain / Concept | Focus | Status |
 | :--- | :--- | :--- | :--- |
+| **`e-check-lexikon`** | Consumer Health / Food Data | Modular static site generator for food additives (E-numbers) & search index | 🟡 WIP |
 | **`disco-island.io`** | Web / Real-time Game | Mario Party-inspired browser `.io` mechanics | 💡 Idea / Docs |
 | **`restaurant-fix`** | Workflow / Operations | Ordering, menu management, and payment flows | 💡 Idea / Docs |
 | **`notes`** | Knowledge Base | Central references, learning logs, and research | 🟢 Active |
@@ -37,6 +38,3 @@ When creating a new repository under **Vector and Void**:
    ```bash
    ln -s AGENTS.md CLAUDE.md      # Claude Code
    ln -s AGENTS.md .kilorules     # Kilo (VS Code)
-   ```
-3. Initialize the standard layout (`src/<package>/`, `tests/`, `docs/adr/`, `README.md`).
-4. Enable branch protection for `main` (require 1 PR approval, prevent direct pushes).
