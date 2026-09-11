@@ -8,6 +8,7 @@
 
 | Repository | Domain / Concept | Focus | Status |
 | :--- | :--- | :--- | :--- |
+| **`local-club-scout`** | Local Search / pSEO | Data pipeline & programmatic SEO engine for sports and hobby clubs across DACH | 💡 Idea / Docs |
 | **`e-check-lexikon`** | Consumer Health / Food Data | Modular static site generator for food additives (E-numbers) & search index | 🟡 WIP |
 | **`disco-island.io`** | Web / Real-time Game | Mario Party-inspired browser `.io` mechanics | 💡 Idea / Docs |
 | **`restaurant-fix`** | Workflow / Operations | Ordering, menu management, and payment flows | 💡 Idea / Docs |
